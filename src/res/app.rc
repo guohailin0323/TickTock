@@ -1,0 +1,5 @@
+// app.rc — TickTock 资源文件
+#include <windows.h>
+
+// 应用程序图标（多尺寸 ICO，含 16/24/32/48/64/128 px）
+1 ICON "app.ico"
